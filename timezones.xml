@@ -9,6 +9,7 @@
 	 <cs><![CDATA[Správa vícero časových zón.]]></cs>
 	 <en><![CDATA[Multi-timezones management.]]></en>
 	 <fr><![CDATA[Gère les multi-timezones.]]></fr>
+	 <de><![CDATA[Multi-Zeitzonen Verwaltung.]]></de>     
       </short>
       <long>
          <cs>Tento zásuvný modul zajišťuje dobrou správu časových zón. Je nutný pokud je instance GLPI využívána z celého světa.  
@@ -105,5 +106,12 @@
             <tag>Utilisateurs</tag>
             <tag>Données</tag>
          </fr>
+	  <de>
+          <tag>Zeitzonen</tag>
+          <tag>Kalender</tag>
+          <tag>Helpdesk</tag>
+	  <tag>Benutzer</tag>
+	  <tag>Daten</tag>
+         </de>
    </tags>
 </root>
